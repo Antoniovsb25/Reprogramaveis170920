@@ -1,0 +1,11 @@
+entity projetoteste is
+port(
+
+);
+end entity projetoteste;
+architecture c_projetoteste of projetoteste is
+
+begin
+
+
+end architecture c_projetoteste;
